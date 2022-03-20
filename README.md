@@ -8,7 +8,7 @@ Al ejecutar el programa pedirá el usuario (admin) y contraseña (admin).
 
 Tras esto al introducirlos correctamente se presenta un menú interactivo donde se podrán seleccionar alguna de estas opciones:
 - Dar de alta doctor.
-- Dar de alta paciente.}
+- Dar de alta paciente.
 - Generar cita.
 - Salir del programa. 
 
